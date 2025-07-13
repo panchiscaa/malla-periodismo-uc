@@ -1,0 +1,255 @@
+[
+  {
+    "nombre": "Test de actualidad IA",
+    "semestre": 1
+  },
+  {
+    "nombre": "Examen de comunicación escrita",
+    "semestre": 1
+  },
+  {
+    "nombre": "Integridad académica",
+    "semestre": 1
+  },
+  {
+    "nombre": "Desafíos de la comunicación",
+    "semestre": 1
+  },
+  {
+    "nombre": "Tecnologías de la comunicación",
+    "semestre": 1
+  },
+  {
+    "nombre": "Historia mundial contemporánea",
+    "semestre": 1
+  },
+  {
+    "nombre": "Teoría de la comunicación social",
+    "semestre": 1
+  },
+  {
+    "nombre": "Narración de no ficción",
+    "semestre": 1
+  },
+  {
+    "nombre": "English test",
+    "semestre": 2
+  },
+  {
+    "nombre": "Test de actualidad IB",
+    "semestre": 2
+  },
+  {
+    "nombre": "Narración de ficción",
+    "semestre": 2
+  },
+  {
+    "nombre": "Historia de la comunicación social",
+    "semestre": 2
+  },
+  {
+    "nombre": "Semiología",
+    "semestre": 2
+  },
+  {
+    "nombre": "Lenguaje visual",
+    "semestre": 2
+  },
+  {
+    "nombre": "Metodología de la investigación",
+    "semestre": 2
+  },
+  {
+    "nombre": "Audiencias",
+    "semestre": 3
+  },
+  {
+    "nombre": "Narración escrita de no ficción",
+    "semestre": 3,
+    "prerrequisitos": [
+      "Narración de no ficción"
+    ]
+  },
+  {
+    "nombre": "Teoría de la noticia",
+    "semestre": 3
+  },
+  {
+    "nombre": "Curso del área científica",
+    "semestre": 3
+  },
+  {
+    "nombre": "Filosofía ¿para qué?",
+    "semestre": 3
+  },
+  {
+    "nombre": "Test de actualidad IIA",
+    "semestre": 3
+  },
+  {
+    "nombre": "Práctica interna (20 hrs)",
+    "semestre": 4
+  },
+  {
+    "nombre": "Test de actualidad IIB",
+    "semestre": 4
+  },
+  {
+    "nombre": "Formación teológica",
+    "semestre": 4
+  },
+  {
+    "nombre": "Habilidades comunicativas orales",
+    "semestre": 4
+  },
+  {
+    "nombre": "Taller de periodismo en prensa",
+    "semestre": 4,
+    "prerrequisitos": [
+      "Teoría de la noticia",
+      "Narración escrita de no ficción"
+    ]
+  },
+  {
+    "nombre": "Narración radial de no ficción",
+    "semestre": 4,
+    "prerrequisitos": [
+      "Narración de no ficción"
+    ]
+  },
+  {
+    "nombre": "Test de actualidad IIIA",
+    "semestre": 5
+  },
+  {
+    "nombre": "OFG Arte",
+    "semestre": 5
+  },
+  {
+    "nombre": "Curso del área de la estética",
+    "semestre": 5
+  },
+  {
+    "nombre": "Taller de periodismo radial",
+    "semestre": 5,
+    "prerrequisitos": [
+      "Teoría de la noticia",
+      "Narración radial de no ficción"
+    ]
+  },
+  {
+    "nombre": "Narración audiovisual de no ficción",
+    "semestre": 5,
+    "prerrequisitos": [
+      "Narración de no ficción"
+    ]
+  },
+  {
+    "nombre": "Teoría democrática",
+    "semestre": 5
+  },
+  {
+    "nombre": "Narración interactiva",
+    "semestre": 6
+  },
+  {
+    "nombre": "Introducción a la economía",
+    "semestre": 6
+  },
+  {
+    "nombre": "Taller de periodismo televisivo",
+    "semestre": 6,
+    "prerrequisitos": [
+      "Teoría de la noticia",
+      "Narración audiovisual de no ficción"
+    ]
+  },
+  {
+    "nombre": "OFG Pensamiento Matemático",
+    "semestre": 6
+  },
+  {
+    "nombre": "OFG Ciencia y Tecnología",
+    "semestre": 6
+  },
+  {
+    "nombre": "Test de actualidad IIIB",
+    "semestre": 6
+  },
+  {
+    "nombre": "OFG Ecología Integral",
+    "semestre": 7
+  },
+  {
+    "nombre": "OFG Salud y Bienestar",
+    "semestre": 7
+  },
+  {
+    "nombre": "Narración gráfica de no ficción",
+    "semestre": 7
+  },
+  {
+    "nombre": "Análisis de la actualidad nacional",
+    "semestre": 7
+  },
+  {
+    "nombre": "Ética de las comunicaciones",
+    "semestre": 7,
+    "prerrequisitos": [
+      "Filosofía ¿para qué?"
+    ]
+  },
+  {
+    "nombre": "Derecho de la comunicación",
+    "semestre": 8
+  },
+  {
+    "nombre": "Análisis de la actualidad internacional",
+    "semestre": 8
+  },
+  {
+    "nombre": "OPR 1",
+    "semestre": 8
+  },
+  {
+    "nombre": "OPR 2",
+    "semestre": 8
+  },
+  {
+    "nombre": "OFG Créditos libres",
+    "semestre": 8
+  },
+  {
+    "nombre": "Seminario de investigación",
+    "semestre": 9,
+    "prerrequisitos": [
+      "Metodología de la investigación"
+    ]
+  },
+  {
+    "nombre": "Análisis comparado de periodismo",
+    "semestre": 9
+  },
+  {
+    "nombre": "Taller de periodismo avanzado",
+    "semestre": 9,
+    "prerrequisitos": [
+      "Teoría de la noticia",
+      "Taller de periodismo en prensa",
+      "Taller de periodismo radial",
+      "Taller de periodismo televisivo"
+    ]
+  },
+  {
+    "nombre": "Economía política de las comunicaciones",
+    "semestre": 9
+  },
+  {
+    "nombre": "OPR 3",
+    "semestre": 9
+  },
+  {
+    "nombre": "Práctica profesional (480 hrs)",
+    "semestre": 9
+  }
+]
